@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a sophomore @ UNR studying computer science and engineering with a minor in mathematics. 
+I am a sophomore @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Mathematics. 
 - Incoming SDE Intern @ Breadware for Spring 2024
 - Former SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 <!--
