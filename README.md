@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a sophomore @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Mathematics. 
-- Incoming SDE Intern @ Breadware for Spring 2024
+<!--- Incoming SDE Intern @ Breadware for Spring 2024-->
 - Former SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 <!--
 **joshmatni/joshmatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
