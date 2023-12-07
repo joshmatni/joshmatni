@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am a sophomore @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Mathematics.
 
-On my free time I enjoy skiing, crocheting, hiking, and watching anime!
+On my free time I enjoy skiing, crocheting, hiking, and watching anime!😄
+
+#### Relevant Work Experience 
 - Incoming SDE Intern @ Breadware for Spring 2024
 - Former SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 <!--
