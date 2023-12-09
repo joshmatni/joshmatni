@@ -7,7 +7,7 @@ Passionate about: Data Engineering, Machine Learning, and Software Engineering
 
 ### Relevant Work Experience:
 - Incoming SDE Intern @ Breadware for Spring 2024
-- Former SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
+- Summer 2023 SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 <!--
 **joshmatni/joshmatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
