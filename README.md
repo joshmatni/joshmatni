@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a sophomore @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Mathematics.
+I am a sophomore @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics and Big Data.
 
 On my free time I enjoy skiing, crocheting, hiking, watching anime, and playing brawl stars!😄
 
