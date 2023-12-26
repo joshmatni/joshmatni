@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a sophomore @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics and Big Data.
 
-On my free time I enjoy skiing, crocheting, hiking, watching anime, and playing brawl stars!😄
+On my free time I enjoy skiing, going to the gym, crocheting, hiking, watching anime, and playing brawl stars!😄
 
 Passionate about: Data Engineering with Machine Learning, and Software Engineering
 
