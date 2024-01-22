@@ -6,7 +6,7 @@ On my free time I enjoy skiing, going to the gym, crocheting, hiking, watching a
 Passionate about: Data Engineering with Machine Learning, and Software Engineering
 
 ### Relevant Work Experience:
-- Incoming SDE Intern @ Breadware for Spring 2024
+- Current: Software Engineer Intern @ Breadware for Spring 2024
 - Summer 2023 SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 <!--
 **joshmatni/joshmatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
