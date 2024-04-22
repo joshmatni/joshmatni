@@ -3,7 +3,7 @@ I am a sophomore @ The University of Nevada, Reno studying Computer Science and 
 
 On my free time I enjoy skiing, going to the gym, crocheting, hiking, watching anime, and playing brawl stars!😄
 
-Passionate about: Data Engineering with Machine Learning, and Software Engineering
+Passionate about: Data Engineering, Machine Learning, and Software Engineering
 
 ### Relevant Work Experience:
 - Current: Software Engineer Intern @ Breadware for Spring 2024
