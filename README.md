@@ -16,11 +16,11 @@ Passionate about: Data Engineering, Data Science, Machine Learning, and Software
 - Summer 2023: SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 
 ## Tech Stack
-[![Languages](https://skillicons.dev/icons?i=python,cpp,c,r)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,c,r,js)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,github,aws,git,docker,mysql,nextjs,flask&theme=dark)](https://skillicons.dev)
 
-[![More Skills](https://skillicons.dev/icons?i=py,cpp,c,r,js,jupyter,pandas,matplotlib,numpy,kafka&theme=dark)](https://skillicons.dev)
+[![More Skills](https://skillicons.dev/icons?i=jupyter,pandas,matplotlib,numpy,kafka&theme=dark)](https://skillicons.dev)
 <!--
 **joshmatni/joshmatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
