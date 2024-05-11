@@ -18,9 +18,8 @@ Passionate about: Data Engineering, Data Science, Machine Learning, and Software
 ## Tech Stack
 [![Languages](https://skillicons.dev/icons?i=python,cpp,c,r,js)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,github,aws,git,docker,mysql,nextjs,flask&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=kafka,github,aws,git,docker,mysql,nextjs,flask&theme=dark)](https://skillicons.dev)
 
-[![More Skills](https://skillicons.dev/icons?i=jupyter,kafka&theme=dark)](https://skillicons.dev)
 <!--
 **joshmatni/joshmatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
