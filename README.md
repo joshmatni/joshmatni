@@ -1,13 +1,19 @@
 ### Hi there 👋
-I am a sophomore @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics.
+I am a rising junior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics.
 
-On my free time I enjoy skiing, going to the gym, crocheting, hiking, watching anime, and playing brawl stars!😄
+Hobbies😄:
+- skiing
+- gym
+- hiking
+- watching anime
+- playing brawl stars
 
-Passionate about: Data Engineering, Machine Learning, and Software Engineering
+Passionate about: Data Engineering, Data Science, Machine Learning, and Software Engineering
 
-### Relevant Work Experience:
-- Current: Software Engineer Intern @ Breadware for Spring 2024
-- Summer 2023 SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
+### Work Experience:
+- Summer 2024: IoT software Developer Intern @ Bolt Data
+- Spring 2024: Software Engineer Intern @ Breadware - (Generative AI)
+- Summer 2023: SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 <!--
 **joshmatni/joshmatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
