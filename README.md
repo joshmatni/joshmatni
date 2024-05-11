@@ -1,15 +1,23 @@
 ### Hi there 👋
 I am a rising junior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics.
 
-## Hobbies😄:
-- skiing
-- gym
-- hiking
-- watching anime
-- playing brawl stars
-
-Passionate about: Data Engineering, Data Science, Machine Learning, and Software Engineering
-
+## About Me
+```py
+  hobbies = [
+      "skiing",
+      "gym",
+      "hiking",
+      "watching anime",
+      "playing brawl stars"
+  ]
+  
+  passionate_about = [
+      "Data Engineering",
+      "Data Science",
+      "Machine Learning",
+      "Software Engineering"
+  ]
+```
 ## Work Experience:
 - Summer 2024: IoT software Developer Intern @ Bolt Data
 - Spring 2024: Software Engineer Intern @ Breadware - (Generative AI)
