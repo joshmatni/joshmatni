@@ -6,6 +6,8 @@ I am a rising junior @ The University of Nevada, Reno studying Computer Science 
   hobbies = [
       "skiing",
       "gym",
+      "crocheting",
+      "baking",
       "hiking",
       "watching anime",
       "playing brawl stars"
