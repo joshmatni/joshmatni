@@ -27,9 +27,9 @@ I am a rising junior @ The University of Nevada, Reno studying Computer Science 
 - Summer 2023: SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 
 ## Tech Stack
-[![Languages](https://skillicons.dev/icons?i=python,cpp,c,r,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,c,r,js&theme=light)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,mysql,nextjs,flask&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,mysql,nextjs,flask&theme=light)](https://skillicons.dev)
 
 <!--
 **joshmatni/joshmatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
