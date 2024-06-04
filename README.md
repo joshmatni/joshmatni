@@ -4,8 +4,8 @@ I am a rising junior @ The University of Nevada, Reno studying Computer Science 
 ## About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshmatni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshmatni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshmatni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&bg_color=CBF0D9&icon_color=4B9371&title_color=055F46&text_color=0D4021" height="175" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshmatni&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=default&hide_border=false&bg_color=CBF0D9&icon_color=4B9371&title_color=055F46&text_color=0D4021" height="175" alt="languages graph" />
 </div>
 
 ```py
