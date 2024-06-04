@@ -29,7 +29,7 @@ I am a rising junior @ The University of Nevada, Reno studying Computer Science 
 ## Tech Stack
 [![Languages](https://skillicons.dev/icons?i=python,cpp,c,r,js)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,mysql,nextjs,flask&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,postgres,mysql,nextjs,flask,sklearn,vscode&theme=light)](https://skillicons.dev)
 
 <!--
 **joshmatni/joshmatni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
