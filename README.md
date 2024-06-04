@@ -8,7 +8,10 @@ I am a rising junior @ The University of Nevada, Reno studying Computer Science 
   <img src="https://github-readme-stats.vercel.app/api?username=joshmatni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&bg_color=CBF0D9&icon_color=4B9371&title_color=055F46&text_color=0D4021" height="175" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joshmatni&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=default&hide_border=false&bg_color=CBF0D9&icon_color=4B9371&title_color=055F46&text_color=0D4021" height="175" alt="languages graph" />
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshmatni&background=CBF0D9&ring=4B9371&fire=055F46&sideNums=0D4021&currStreakNum=0D4021&sideLabels=055F46&dates=0D4021" alt="joshmatni" /></p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshmatni&background=CBF0D9&ring=4B9371&fire=055F46&sideNums=0D4021&currStreakNum=0D4021&sideLabels=055F46&dates=0D4021" alt="joshmatni's GitHub Streak" />
+</div>
 
 ```py
   hobbies = [
