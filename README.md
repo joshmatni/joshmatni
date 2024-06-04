@@ -27,8 +27,10 @@ I am a rising junior @ The University of Nevada, Reno studying Computer Science 
 - Summer 2023: SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 
 ## Tech Stack
+# Languages
 [![Languages](https://skillicons.dev/icons?i=python,cpp,c,r,js)](https://skillicons.dev)
 
+# Tools
 [![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,postgres,mysql,nextjs,flask,sklearn,vscode&theme=light)](https://skillicons.dev)
 
 <!--
