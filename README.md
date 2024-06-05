@@ -23,7 +23,7 @@ I am a rising junior @ The University of Nevada, Reno studying Computer Science 
 ```
 
 ## Work Experience 🚀:
-- **Summer 2024**: IoT Software Developer Intern @ Bolt Data
+- **Summer 2024**: IoT Developer Intern @ Bolt Data
 - **Spring 2024**: Software Engineer Intern @ Breadware - (Generative AI)
 - **Summer 2023**: SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
 
