@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a rising junior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics.
+I am a junior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshmatni&label=Profile%20views&color=0e75b6&style=flat" alt="joshmatni" /> </p>
 
 ## About Me
