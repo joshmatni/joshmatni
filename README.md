@@ -34,5 +34,4 @@ I am a junior @ The University of Nevada, Reno studying Computer Science and Eng
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,postgres,mysql,nextjs,flask,sklearn,grafana,vscode,pytorch,tensorflow&theme=light)](https://skillicons.dev)
 
-## JEFFERY GOTTA EAT
-![GitHub Snake Animation](https://joshmatni.github.io/joshmatni/snake.svg)
+### What would you do if when you okay so he said yes would go?
