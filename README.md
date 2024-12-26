@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a junior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics. My pomeranian is named Chewy!!
+I am a junior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics. I have a pomeranian named Chewy!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshmatni&label=Profile%20views&color=0e75b6&style=flat" alt="joshmatni" /> </p>
 
 ## About Me
@@ -25,7 +25,7 @@ I am a junior @ The University of Nevada, Reno studying Computer Science and Eng
 ## Work Experience 🚀:
 - **Summer 2024**: Data Engineer Intern @ Bolt Data
 - **Spring 2024**: Software Engineer Intern @ Breadware - (Generative AI)
-- **Summer 2023**: SWE intern @ Stanford Linear Accelerator Center (SLAC) - Linac Coherent Light Source (LCLS)
+- **Summer 2023**: Software Engineer Intern @ SLAC National Accelerator Laboratory
 
 ## Tech Stack
 ### Languages
