@@ -23,6 +23,7 @@ I am a junior @ The University of Nevada, Reno studying Computer Science and Eng
 ```
 
 ## Work Experience 🚀:
+- **Summer 2025**: Data Science Summer Analyst @ JPMorgan Chase & Co.
 - **Summer 2024**: Data Engineer Intern @ Bolt Data
 - **Spring 2024**: Software Engineer Intern @ Breadware - (Generative AI)
 - **Summer 2023**: Software Engineer Intern @ SLAC National Accelerator Laboratory
