@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a junior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics. I like to ski and play Brawl Stars. I also have a pomeranian named Chewy!!
+I am a junior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics. I love food so much. I also have a pomeranian named Chewy!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshmatni&label=Profile%20views&color=0e75b6&style=flat" alt="joshmatni" /> </p>
 
 ## About Me
@@ -10,16 +10,17 @@ I am a junior @ The University of Nevada, Reno studying Computer Science and Eng
 </div>
 
 ```py
-  hobbies = [
-      "🎿 skiing",
-      "🏋️‍♂️ gym",
-      "🏀 playing basketball",
-      "🧶 crocheting",
-      "🍰 baking",
-      "🥾 hiking",
-      "📺 watching anime",
-      "🎮 playing Brawl Stars"
-  ]
+hobbies = [
+    "🎿 skiing",
+    "🏋️‍♂️ gym",
+    "🏀 playing basketball",
+    "🧶 crocheting",
+    "🍰 baking",
+    "🥾 hiking",
+    "🧗‍♂️ rock climbing",
+    "📺 watching anime",
+    "🎮 playing Brawl Stars"
+]
 ```
 
 ## Work Experience 🚀:
