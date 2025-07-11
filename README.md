@@ -26,7 +26,7 @@ hobbies = [
 ## Work Experience 🚀:
 - **Fall 2025 & Spring 2026**: Data Science Intern @ NBCUniversal (Peacock Data & Decision Sciences)
 - **Summer 2025**: Data Science Intern @ JPMorgan Chase & Co.
-- **Summer 2024**: Data Science Intern @ Bolt Data
+- **Summer 2024**: Machine Learning Engineer Intern @ Bolt Data
 - **Spring 2024**: Data Science Intern @ Breadware
 - **Summer 2023**: Data Science Intern @ SLAC National Accelerator Laboratory
 
