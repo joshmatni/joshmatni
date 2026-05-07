@@ -1,5 +1,7 @@
 ## Hi there 👋
-I am a senior @ The University of Nevada, Reno studying Computer Science and Engineering with a minor in Statistics. I love food so much. I also have a pomeranian named Chewy!!
+I recently graduated from the University of Nevada, Reno with a degree in Computer Science and Engineering and a minor in Statistics.
+I will be pursuing a Master’s in Data Science at the University of Pennsylvania while working full-time as an engineer/scientist.
+I love food so much. I also have a pomeranian named Chewy!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshmatni&label=Profile%20views&color=0e75b6&style=flat" alt="joshmatni" /> </p>
 
 ## About Me
@@ -15,9 +17,9 @@ hobbies = [
     "🏋️‍♂️ gym",
     "🏀 playing basketball",
     "🧶 crocheting",
-    "🍰 baking",
     "🥾 hiking",
-    "🧗‍♂️ rock climbing",
+    "🏃‍♂️ running",
+    "🧗‍♂️ bouldering",
     "📺 watching anime",
     "🎮 playing Brawl Stars"
 ]
@@ -25,11 +27,11 @@ hobbies = [
 
 ## Work Experience 🚀:
 - **Summer 2026**: Machine Learning Engineer Intern @ Strava
-- **Fall 2025 & Spring 2026**: Data Science Intern @ NBCUniversal (PeacockTV Customer Journey Science)
+- **Fall 2025 & Spring 2026**: Data Science Intern @ NBCUniversal (Peacock)
 - **Summer 2025**: Data Science Intern @ JPMorgan Chase & Co.
 - **Summer 2024**: Machine Learning Engineer Intern @ Bolt Data
 - **Spring 2024**: Machine Learning Engineer Intern @ Breadware
-- **Summer 2023**: Data Science Intern @ SLAC National Accelerator Laboratory
+- **Summer 2023**: Research Software Engineer Intern @ SLAC National Accelerator Laboratory
 
 ## Tech Stack
 ### Languages
