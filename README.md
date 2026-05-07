@@ -16,7 +16,6 @@ hobbies = [
     "🎿 skiing",
     "🏋️‍♂️ gym",
     "🏀 playing basketball",
-    "🧶 crocheting",
     "🥾 hiking",
     "🏃‍♂️ running",
     "🧗‍♂️ bouldering",
