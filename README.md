@@ -1,7 +1,7 @@
 ## Hi there 👋
-I recently graduated from the University of Nevada, Reno with a degree in Computer Science and Engineering and a minor in Statistics.
-I will be pursuing a Master’s in Data Science at the University of Pennsylvania while working full-time as an engineer/scientist.
-I love food so much. I also have a pomeranian named Chewy!!
+- I recently graduated from the University of Nevada, Reno with a degree in Computer Science and Engineering and a minor in Statistics.
+- I will be pursuing a Master’s in Data Science at the University of Pennsylvania while working full-time as an engineer/scientist.
+- I love food so much. I also have a pomeranian named Chewy!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshmatni&label=Profile%20views&color=0e75b6&style=flat" alt="joshmatni" /> </p>
 
 ## About Me
